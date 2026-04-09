@@ -10,13 +10,19 @@ import java.io.File;
 import java.util.Random;
 public class RandomNote {
      private String[] notes = {
-        "Dis-chord/wav/a1.wav",  "Dis-chord/wav/a1s.wav", 
-        "Dis-chord/wav/b1.wav",  "Dis-chord/wav/c1.wav",
-        "Dis-chord/wav/c1s.wav", "Dis-chord/wav/c2.wav", 
-        "Dis-chord/wav/d1.wav",  "Dis-chord/wav/d1s.wav",
-        "Dis-chord/wav/e1.wav",  "Dis-chord/wav/f1.wav", 
-        "Dis-chord/wav/f1s.wav", "Dis-chord/wav/g1.wav",
-        "Dis-chord/wav/g1s.wav"
+        "Dis-chord-CS4222-Project/Dis-chord/Dis-chord-copy-copy/a1.wav", 
+        "Dis-chord-CS4222-Project/Dis-chord/Dis-chord-copy-copy/a1s.wav", 
+        "Dis-chord-CS4222-Project/Dis-chord/Dis-chord-copy-copy/b1.wav", 
+        "Dis-chord-CS4222-Project/Dis-chord/Dis-chord-copy-copy/c1.wav",
+        "Dis-chord-CS4222-Project/Dis-chord/Dis-chord-copy-copy/c1s.wav", 
+        "Dis-chord-CS4222-Project/Dis-chord/Dis-chord-copy-copy/c2.wav", 
+        "Dis-chord-CS4222-Project/Dis-chord/Dis-chord-copy-copy/d1.wav", 
+        "Dis-chord-CS4222-Project/Dis-chord/Dis-chord-copy-copy/d1s.wav",
+        "Dis-chord-CS4222-Project/Dis-chord/Dis-chord-copy-copy/e1.wav", 
+        "Dis-chord-CS4222-Project/Dis-chord/Dis-chord-copy-copy/f1.wav", 
+        "Dis-chord-CS4222-Project/Dis-chord/Dis-chord-copy-copy/f1s.wav", 
+        "Dis-chord-CS4222-Project/Dis-chord/Dis-chord-copy-copy/g1.wav",
+        "Dis-chord-CS4222-Project/Dis-chord/Dis-chord-copy-copy/g1s.wav"
     };
 
     private Random rand = new Random();
