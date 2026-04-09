@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=AudioPlayer
+comment1.params=noteName
+comment1.target=void\ playNote(java.lang.String)
+numComments=2
