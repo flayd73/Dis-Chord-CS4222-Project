@@ -36,7 +36,7 @@ public class DisChordUI {
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setSize(900, 500);
         frame.setLocationRelativeTo(null);
-        frame.getContentPane().setBackground(Color.WHITE);
+        frame.getContentPane().setBackground(Color.WHITE); 
 
         JPanel mainPanel = new JPanel(new GridLayout(1, 2, 20, 0));
         mainPanel.setBorder(BorderFactory.createEmptyBorder(20, 20, 20, 20));
