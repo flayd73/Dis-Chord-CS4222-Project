@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=PopupManager
+comment1.params=parent
+comment1.target=PopupManager(javax.swing.JFrame)
+comment2.params=
+comment2.target=void\ start()
+comment2.text=Begins\ the\ popup\ harassment\ loop.
+comment3.params=
+comment3.target=void\ showRandomPopup()
+numComments=4

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=DisChordUI
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=DisChordUI()
+comment3.params=
+comment3.target=void\ createAndShowGUI()
+comment4.params=
+comment4.target=void\ updateTextArea()
+comment5.params=text\ color\ size
+comment5.target=javax.swing.JButton\ createIconButton(java.lang.String,\ java.awt.Color,\ int)
+numComments=6
